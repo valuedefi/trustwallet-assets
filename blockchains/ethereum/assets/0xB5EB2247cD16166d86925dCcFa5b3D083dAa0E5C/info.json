@@ -1,0 +1,30 @@
+{
+  "name": "SusafeToken",
+  "source_code": "https://github.com/sushisafe",
+  "website": "https://sushisafe.org/",
+  "short_description": "Sushisafe: A better and safer sushi.",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/SushiSafe",
+      "handle": "SushiSafe"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@sushisafe",
+      "handle": "sushisafe"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/SushiSafe",
+      "handle": "SushiSafe"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/ktnDqzG",
+      "handle": "sushisafe"
+    }
+  ],
+  "explorer": "https://etherscan.io/token/0xB5EB2247cD16166d86925dCcFa5b3D083dAa0E5C",
+  "research": ""
+}
